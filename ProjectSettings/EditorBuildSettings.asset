@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Yura'sFiles/Scens/Events.unity
-    guid: 156a4c7a3811de446bddd767e94c5e49
+    path: Assets/Yura'sFiles/Scens/Events 1.unity
+    guid: 22714dd1788fbeb4c80274da81c6c105
+  - enabled: 1
+    path: Assets/Yura'sFiles/Scens/Community 1.unity
+    guid: a79d6d452df049644ad5c08f1668c5f9
+  - enabled: 1
+    path: Assets/Yura'sFiles/Scens/JOB 1.unity
+    guid: bea64a2b83993c440b616a6e1b6ce65e
   m_configObjects: {}
